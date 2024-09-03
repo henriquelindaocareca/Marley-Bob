@@ -1,0 +1,32 @@
+.imagem1 {
+    width: 950px;
+    align-self: center;
+}
+.imagem2 {
+    width: 950px;
+    align-self: center;
+}
+
+.textao1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 25px;
+}
+.textao2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: medium;
+}
+.texto {
+    text-align: center;
+    font-size: medium;
+}
+body {
+    background-color: #FF9;
+}
+.lista {
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    list-style: none;
+}
